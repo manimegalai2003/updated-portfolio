@@ -15,7 +15,7 @@ const About = () => {
                 <div className="flex-shrink-0">
                   <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-purple-400/50 shadow-2xl">
                     <img 
-                      src="https://striking-black-swb7ckn4an.edgeone.app/manimegalai%20s.jpg"
+                      src="https://intimate-aqua-adfk2rj9g9.edgeone.app/manimegalai%20s.jpg"
                        alt="Manimegalai S" 
                       className="w-full h-full object-cover"
                     />
